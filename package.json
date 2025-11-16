@@ -1,0 +1,12 @@
+{
+  "name": "target-roast-bot",
+  "version": "1.0.0",
+  "description": "Auto roast bot for targeted users",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "fca-unofficial": "^1.4.5"
+  }
+}
